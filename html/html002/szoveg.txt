@@ -1,0 +1,18 @@
+Iskolaudvar
+Bemutatkozás
+Az iskolaudvarunk kellemes, zöld környezete ideális a szünetek eltöltésére.
+
+Latvany div-ek címei:
+Virágágyás
+Padok
+Sportpálya
+
+A lista szövege (soronként egy listelem):
+
+A virágágyást a diákok gondozzák
+A padokat újrafestették tavasszal
+Van egy madáretető is az udvaron
+A sportpályát diákversenyekhez használják
+
+
+2025 – Képzeletbeli Középiskola

@@ -1,0 +1,54 @@
+body {
+    background-color: #F0F0F0;
+    color: #333333;
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+
+.keret {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.keret > * {
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    height: 3px;
+    background-color: #CCC;
+    border: none;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+.bemutato > p {
+    font-style: italic;
+}
+
+.latvanyok {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.latvany > h3 {
+    text-align: center;
+    color: #060;
+}
+
+.erdekessegek li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
