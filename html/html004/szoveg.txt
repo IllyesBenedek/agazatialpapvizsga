@@ -1,0 +1,20 @@
+WebKonf 2025
+2025. május 15-16.
+Budapesti Kongresszusi Központ
+"A jövő webje ma kezdődik"
+
+Program:
+- Megnyitó
+- HTML a jövőben
+- Design és UX
+- Webbiztonság alapok
+- Záró gondolatok
+
+Előadók:
+- Kovács Anna – Webfejlesztő, HTML specialista
+- Szabó Péter – UX designer, tech tanácsadó
+- Nagy Júlia – Biztonságtechnikai szakértő
+
+Lábléc:
+"Vissza a tetejére"
+"© 2025 WebKonf. Minden jog fenntartva."

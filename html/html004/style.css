@@ -1,0 +1,82 @@
+body {
+    background-color: #FAFAFA;
+    color: #222;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.kek-vonal {
+    height: 4px;
+    background-color: #0099FF;
+    border: none;
+}
+
+.motto {
+    font-style: italic;
+}
+
+.helyszin {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.navmenu {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.program {
+    margin: 40px 0;
+}
+
+.eloadok-lista {
+    display: flex;
+    justify-content: space-between;
+}
+
+.eloadok-lista article {
+    width: 30%;
+    text-align: center;
+}
+
+.eloadok-lista img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto  ;
+}
+
+.eloadok-lista h4 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0px 5px;
+}
+
+section {
+    margin: 40px 0;
+}
