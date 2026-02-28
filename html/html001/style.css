@@ -1,0 +1,54 @@
+body {
+    background-color: #EEFF66;
+    color: #000066;
+    font-style: italic;
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.hetek {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+hr {
+    background-color: red;
+    border-color: red;
+}
+
+.egynap {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.egynap img {
+    width: 230px;
+}
+
+.arakcsik {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arak {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.arak span:nth-of-type(4) {
+    text-decoration: line-through;
+}
+
+p {
+    text-align: center;
+}
